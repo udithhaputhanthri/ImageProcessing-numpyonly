@@ -3,7 +3,7 @@ This repo contains implementations for various image processing techniques only 
 
 ## 1. Gaussian Smoothing
 
-![Gaussian Smoothing](results/smooth.JPG)
+![Gaussian Smoothing](results/smooth.JPG | width=100)
 
 **Fig :** Gaussian Smoothing
 
