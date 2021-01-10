@@ -19,13 +19,13 @@ This repo contains implementations for various image processing techniques only 
 
 ## 3. Blob Detection
 
-<img src="results/blob_detection.JPG" alt="Blob detection using Laplacian kernels" width="500"/>
+<img src="results/blob_detection.JPG" alt="Blob detection using Laplacian kernels" width="600"/>
 
 **Fig :** Blob detection using Laplacian kernels
 
 ## 4. Scale-space-maxima Feature Extraction
 
-<img src="results/scale_space1.JPG" alt="Blob detection on scale space" width="500"/>
+<img src="results/scale_space1.JPG" alt="Blob detection on scale space" width="700"/>
 
 **Fig :** Blob detection on scale space
 
