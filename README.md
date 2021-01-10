@@ -4,34 +4,28 @@ This repo contains implementations for various image processing techniques only 
 ## 1. Gaussian Smoothing
 
 <img src="results/smooth.JPG" alt="Gaussian Smoothing" width="500"/>
-
-
 **Fig :** Gaussian Smoothing
 
 ## 2. Edge Detection
 
-![Divergence of Gaussian](results/div_of_gaussian.JPG)
-
+<img src="results/div_of_gaussian.JPG" alt="Edge detection using Divergence of Gaussian kernels" width="500"/>
 **Fig :** Edge detection using Divergence of Gaussian kernels
 
-![Edge detection](results/edge_detection.JPG)
-
+<img src="results/edge_detection.JPG" alt="Horizontal and Vertical edge detection" width="500"/>
 **Fig :** Horizontal and Vertical edge detection
 
 ## 3. Blob Detection
 
-![Blob detection](results/blob_detection.JPG)
-
+<img src="results/blob_detection.JPG" alt="Blob detection using Laplacian kernels" width="500"/>
 **Fig :** Blob detection using Laplacian kernels
 
 ## 4. Scale-space-maxima Feature Extraction
 
-![Scale space maxima features1](results/scale_space1.JPG)
-
+<img src="results/scale_space1.JPG" alt="Blob detection on scale space" width="500"/>
 **Fig :** Blob detection on scale space
 
-![Scale space maxima features2](results/scale_space2.JPG)
 
+<img src="results/scale_space2.JPG" alt="Scale space maxima features" width="500"/>
 **Fig :** Scale space maxima features
 
 
